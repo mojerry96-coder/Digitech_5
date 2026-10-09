@@ -1,0 +1,23 @@
+ELEVENLABS NARRATION — The Qualitative Coding Sandbox walkthrough
+
+Voice: Ifeoma Odumodu - Nigerian Narrator
+Model: eleven_multilingual_v2   Stability: 0.6   Similarity: 0.8   Style: 0   Speaker boost: on
+
+Generate one file per line, in this order, and save them as s1.mp3 … s15.mp3 in video/narration/incoming/.
+Then run:  python3 video/use_narration.py "ElevenLabs Ifeoma Odumodu - Nigerian Narrator" video/narration/incoming/s{1..15}.mp3  &&  video/build.sh
+
+s1: Welcome to the Qualitative Coding Sandbox. You are the Lead Coder on a study of why students do, or do not, use the campus wellbeing service.
+s2: Your lead researcher is away for two weeks. Read the handoff, then open the shared project.
+s3: Documents are on the left and the transcript is in the middle. The panel on the right always shows your next step.
+s4: Start by segmenting. Highlight one complete idea, then choose Create quotation. The quotation appears in the margin.
+s5: Segment all six transcripts, then choose Finish segmenting.
+s6: Next, code. Select a quotation, choose Apply code, and type a code name, or reuse a code you already have.
+s7: The Codes tab holds your codebook. Drag codes onto the text, rename them, or merge codes that mean the same thing.
+s8: When you finish coding, the Codebook Confidence meter shows how well your codebook holds together.
+s9: A second coder read three transcripts differently. Classify each disagreement, and choose what to do about it.
+s10: In Gameplay 2, choose how many categories to aim for, then sort your codes into them.
+s11: Rank three candidate themes. Then a late transcript arrives. Test your top theme against it, honestly.
+s12: In Gameplay 3, build the interpretation map. Link each category to the theme, and back it with evidence.
+s13: Write a short memo for the Dean. If your analysis holds up, a peer reviewer will challenge it, and you answer with evidence.
+s14: The debrief shows how each decision shaped what you could see. There are no marks, just your evidence trail. You can watch this again from Help.
+s15: Your turn. Begin.

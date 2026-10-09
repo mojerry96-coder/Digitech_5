@@ -1,0 +1,77 @@
+[
+  {
+    "id": "welcome",
+    "anchor": 0.6,
+    "text": "Welcome to the Qualitative Coding Sandbox. You are the Lead Coder on a study of why students do, or do not, use the campus wellbeing service."
+  },
+  {
+    "id": "handoff",
+    "anchor": "handoff",
+    "text": "Your lead researcher is away for two weeks. Read the handoff, then open the shared project."
+  },
+  {
+    "id": "tour",
+    "anchor": "tour",
+    "text": "Documents are on the left and the transcript is in the middle. The panel on the right always shows your next step."
+  },
+  {
+    "id": "segment",
+    "anchor": "segment",
+    "text": "Start by segmenting. Highlight one complete idea, then choose Create quotation. The quotation appears in the margin."
+  },
+  {
+    "id": "segall",
+    "anchor": null,
+    "text": "Segment all six transcripts, then choose Finish segmenting."
+  },
+  {
+    "id": "code",
+    "anchor": "code",
+    "text": "Next, code. Select a quotation, choose Apply code, and type a code name, or reuse a code you already have."
+  },
+  {
+    "id": "manager",
+    "anchor": "manager",
+    "text": "The Codes tab holds your codebook. Drag codes onto the text, rename them, or merge codes that mean the same thing."
+  },
+  {
+    "id": "meter",
+    "anchor": "meter",
+    "text": "When you finish coding, the Codebook Confidence meter shows how well your codebook holds together."
+  },
+  {
+    "id": "ica",
+    "anchor": "ica",
+    "text": "A second coder read three transcripts differently. Classify each disagreement, and choose what to do about it."
+  },
+  {
+    "id": "bins",
+    "anchor": "bins",
+    "text": "In Gameplay 2, choose how many categories to aim for, then sort your codes into them."
+  },
+  {
+    "id": "themes",
+    "anchor": "themes",
+    "text": "Rank three candidate themes. Then a late transcript arrives. Test your top theme against it, honestly."
+  },
+  {
+    "id": "network",
+    "anchor": "network",
+    "text": "In Gameplay 3, build the interpretation map. Link each category to the theme, and back it with evidence."
+  },
+  {
+    "id": "memo",
+    "anchor": "memo",
+    "text": "Write a short memo for the Dean. If your analysis holds up, a peer reviewer will challenge it, and you answer with evidence."
+  },
+  {
+    "id": "debrief",
+    "anchor": "debrief",
+    "text": "The debrief shows how each decision shaped what you could see. There are no marks, just your evidence trail. You can watch this again from Help."
+  },
+  {
+    "id": "endcard",
+    "anchor": "endcard",
+    "text": "Your turn. Begin."
+  }
+]
